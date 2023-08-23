@@ -1,2 +1,3 @@
 # ICASSP2024
-Highlight removal network based on an improved dichromatic reflection model
+Paper: Highlight removal network based on an improved dichromatic reflection model
+Code coming soon ......
