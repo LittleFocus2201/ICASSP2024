@@ -3,14 +3,16 @@
 This repository is the official implementation of ICASSP 2024 paper：Highlight removal network based on an improved dichromatic reflection model.
 
 >```
->@article{hu2024highlight,
->  title={Highlight removal network based on an improved dichromatic reflection model},
->  author={Hu, Kun, Huang, Zhaoyangfan and Wang, Xingjun},
->  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
->  pages={0--0},
-> year={2024},
-> organization={IEEE}
->}
+>@INPROCEEDINGS{10447916,
+ > author={Hu, Kun and Huang, Zhaoyangfan and Wang, Xingjun},
+>  booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+ > title={Highlight Removal Network Based on an Improved Dichromatic Reflection Model}, 
+  >year={2024},
+  >volume={},
+ > number={},
+>  pages={2645-2649},
+>  keywords={Measurement;Adaptation models;Codes;Adaptive systems;Color;Signal processing;Visual effects;Specular highlight removal;Dichromatic reflection model;Coarse-to-refine network;Highlight aware},
+>  doi={10.1109/ICASSP48485.2024.10447916}}
 >```
 
 ## Introduction
